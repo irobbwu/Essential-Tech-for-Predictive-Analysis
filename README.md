@@ -9,7 +9,7 @@ Essential-Tech-for-Predictive-Analysis in Python
 
 ## Contents
 
-- [01. Pandas Introduction](#01.-Pandas-Introduction)
+- [01. Pandas Introduction](#01. Pandas-Introduction)
 - 
 - 2. The Two Essential Algorithms for Making Predictions
 
